@@ -3,7 +3,6 @@
 
 A project to predict the future price of Bitcoin using machine learning algorithms implemented in R.
 
-![Bitcoin](https://i.imgur.com/afuZ4iJ.png)
 
 🚀 Features
 -----------
